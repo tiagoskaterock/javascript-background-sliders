@@ -45,5 +45,5 @@ This project was conjured into existence by Tiago Lemes and inspired by the teac
 May your code always compile, and your spells bring delight to the digital realm! 🌟✨
 
 <p align="center">
-  <img align="center" src="1.gif" alt="Website">  
+  <img align="center" src="1.png" alt="Website">  
 </p>
