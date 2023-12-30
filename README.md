@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+
 # Background Slider Wizardry 🌟
 
 Welcome to the Background Slider Wizardry project! 🎩✨
@@ -39,3 +43,7 @@ Have a question about a spell? Want to share your own magical discoveries? Reach
 This project was conjured into existence by Tiago Lemes and inspired by the teachings of ancient coding scrolls found across Udemy on the internet.
 
 May your code always compile, and your spells bring delight to the digital realm! 🌟✨
+
+<p align="center">
+  <img align="center" src="1.gif" alt="Website">  
+</p>
