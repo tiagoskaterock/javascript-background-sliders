@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=css,javascript" />
 </p>
 
 # Background Slider Wizardry 🌟
@@ -20,7 +20,7 @@ To harness the power of these background sliders:
     `https://github.com/tiagoskaterock/javascript-background-sliders`
 
 2. **Open the Spellbook:**
-    Explore the `index.html` and `script.js` to uncover the arcane incantations that bring these sliders to life.
+    Explore the `index.html`, `style.css` and `script.js` to uncover the arcane incantations that bring these sliders to life.
 
 ### 🌌 Spells & Incantations:
 
@@ -45,5 +45,5 @@ This project was conjured into existence by Tiago Lemes and inspired by the teac
 May your code always compile, and your spells bring delight to the digital realm! 🌟✨
 
 <p align="center">
-  <img align="center" src="1.png" alt="Website">  
+  <img align="center" src="1.gif" alt="Website">  
 </p>
